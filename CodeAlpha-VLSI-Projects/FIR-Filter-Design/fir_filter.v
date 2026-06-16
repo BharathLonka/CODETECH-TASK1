@@ -1,3 +1,4 @@
+codealpha_fir-filter-design
 module fir_filter(
     input clk,
     input reset,
