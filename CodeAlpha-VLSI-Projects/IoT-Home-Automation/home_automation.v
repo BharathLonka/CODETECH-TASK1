@@ -1,3 +1,4 @@
+codealpha_iot-home-automation
 module home_automation(
     input clk,
     input motion_sensor,
