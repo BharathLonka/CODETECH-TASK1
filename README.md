@@ -1,3 +1,4 @@
+codealpha@traffic_light_controller.v
 module traffic_light_controller(
     input clk,
     input reset,
